@@ -3,6 +3,7 @@ About r-spatialtools-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spatialtools-feedstock/blob/main/LICENSE.txt)
 
+
 About r-spatialtools
 --------------------
 
@@ -11,6 +12,7 @@ Home: https://CRAN.R-project.org/package=SpatialTools
 Package license: GPL-2.0-or-later
 
 Summary: Tools for spatial data analysis.  Emphasis on kriging.  Provides functions for prediction and simulation.  Intended to be relatively straightforward, fast, and flexible.
+
 About r-spatialtools
 --------------------
 
